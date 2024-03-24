@@ -1,0 +1,22 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Ncf: Number of failed test cases that cover the rule
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nus: Number of successful test cases that cover the rule
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Ncs: Number of successful test cases that cover the rule
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nus: number of successful test cases that do not cover the rule
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nc: total number of test cases that cover the rule
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nu:total number of test cases that do not cover the rule
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Ns: total number of successful test cases
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nf: total number of failed test cases
+
+OCL2;TrgArticle.allInstances()->forAll(a | a.sections_1->size() >= 4 and a.sections_1->at(1).title = 'References List' and a.sections_1->at(2).title = 'Authors List' and a.sections_1->at(3).title = 'Titles List' and a.sections_1->at(4).title = 'Journals List')
+
+Rules;TC1;TC2;TC3;TC4;TC5;TC6;TC7;TC8;TC9;TC10;TC11;TC12;TC13;TC14;TC15;TC16;TC17;TC18;TC19;TC20;TC21;TC22;TC23;TC24;TC25;TC26;TC27;TC28;TC29;TC30;TC31;TC32;TC33;TC34;TC35;TC36;TC37;TC38;TC39;TC40;TC41;TC42;TC43;TC44;Ncf;Nuf;Ncs;Nus;Nc;Nu;Ns;Nf;Cohen;Braun-Banquet;Simple Matching;Kulcynski2;Barinel;Arithmetic Mean;Mountford;Zoltar;Ochiai;Phi;Op2;Russel Rao;Baroni-Urbani & Buser;Pierce;Ochiai2;Rogers & Tanimoto;DStar;Tarantula;
+Article_Title_NoJournal;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;19.0;25.0;0.0;0.0;19.0;25.0;0.0;44.0;0.0;0.4318181818181818;0.4318181818181818;0.7159090909090909;1.0;0.0;0.08;0.4318181818181818;0.6571287406727709;0.0;19.0;0.4318181818181818;0.4318181818181818;1.0;0.0;0.2753623188405797;14.44;1.0;
+TitledEntry_Title_NoArticle;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;19.0;25.0;0.0;0.0;19.0;25.0;0.0;44.0;0.0;0.4318181818181818;0.4318181818181818;0.7159090909090909;1.0;0.0;0.08;0.4318181818181818;0.6571287406727709;0.0;19.0;0.4318181818181818;0.4318181818181818;1.0;0.0;0.2753623188405797;14.44;1.0;
+Article_NoTitle_Journal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.0;44.0;0.0;0.0;0.0;44.0;0.0;44.0;0.0;0.0;0.0;0.0;NaN;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;
+Article_Title_Journal;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;19.0;25.0;0.0;0.0;19.0;25.0;0.0;44.0;0.0;0.4318181818181818;0.4318181818181818;0.7159090909090909;1.0;0.0;0.08;0.4318181818181818;0.6571287406727709;0.0;19.0;0.4318181818181818;0.4318181818181818;1.0;0.0;0.2753623188405797;14.44;1.0;
+Author;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;19.0;25.0;0.0;0.0;19.0;25.0;0.0;44.0;0.0;0.4318181818181818;0.4318181818181818;0.7159090909090909;1.0;0.0;0.08;0.4318181818181818;0.6571287406727709;0.0;19.0;0.4318181818181818;0.4318181818181818;1.0;0.0;0.2753623188405797;14.44;1.0;
+Article_NoTitle_NoJournal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0.0;44.0;0.0;0.0;0.0;44.0;0.0;44.0;0.0;0.0;0.0;0.0;NaN;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;
+UntitledEntry;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;19.0;25.0;0.0;0.0;19.0;25.0;0.0;44.0;0.0;0.4318181818181818;0.4318181818181818;0.7159090909090909;1.0;0.0;0.08;0.4318181818181818;0.6571287406727709;0.0;19.0;0.4318181818181818;0.4318181818181818;1.0;0.0;0.2753623188405797;14.44;1.0;
+Main;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;44.0;0.0;0.0;0.0;44.0;0.0;0.0;44.0;0.0;1.0;1.0;1.0;1.0;0.0;1.0;1.0;1.0;0.0;44.0;1.0;1.0;0.0;0.0;1.0;1.0;1.0;
+TitledEntry_NoTitle_NoArticle;;;;;;;;;;;;;;;;;;;;;;;;;;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;19.0;25.0;0.0;0.0;19.0;25.0;0.0;44.0;0.0;0.4318181818181818;0.4318181818181818;0.7159090909090909;1.0;0.0;0.08;0.4318181818181818;0.6571287406727709;0.0;19.0;0.4318181818181818;0.4318181818181818;1.0;0.0;0.2753623188405797;14.44;1.0;
+;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;Fail;

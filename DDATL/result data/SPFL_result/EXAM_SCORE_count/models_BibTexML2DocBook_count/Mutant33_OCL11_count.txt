@@ -1,0 +1,6 @@
+BEST_CASE£º
+better_count£º11  worse_count£º1  equal_count£º6
+WORST_CASE£º
+better_count£º12  worse_count£º1  equal_count£º5
+AVG_CASE£º
+better_count£º12  worse_count£º1  equal_count£º5

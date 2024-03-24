@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.m2m.atl.engine.emfvm_3.5.0.v201405260755">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org.eclipse.m2m.atl.engine.emfvm_3.5.0.v201405260755.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

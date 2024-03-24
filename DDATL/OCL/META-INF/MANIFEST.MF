@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Main-Class: TestOcl
+Class-Path: lpg.runtime.java_2.0.17.v201004271640.jar org.objectweb.asm_
+ 5.0.1.v201404251740.jar org.eclipse.m2m.atl.common_3.3.1.v201209061455.
+ jar org.eclipse.ocl.common_1.8.500.v20201208-2229.jar org.eclipse.equin
+ ox.common_3.8.0.v20160509-1230.jar org.eclipse.core.runtime_3.12.0.v201
+ 60606-1342.jar org.eclipse.m2m.atl.emftvm.trace_4.5.0.v202110180912.jar
+  org.eclipse.ocl.ecore_3.6.200.v20170522-1736.jar org.eclipse.m2m.atl.e
+ ngine.emfvm_3.5.0.v201405260755.jar org.eclipse.m2m.atl.emftvm_4.5.0.v2
+ 02110180912.jar org.eclipse.emf.common_2.10.0.v20140514-1158.jar org.ec
+ lipse.m2m.atl.core.emf_3.3.1.v201209061455.jar org.eclipse.emf.ecore_2.
+ 10.0.v20140514-1158.jar org.eclipse.emf.ecore.xmi_2.10.0.v20140514-1158
+ .jar org.eclipse.ocl_3.6.200.v20170522-1736.jar org.eclipse.m2m.atl.cor
+ e_3.3.1.v201209061455.jar
+

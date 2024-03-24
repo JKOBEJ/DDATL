@@ -1,0 +1,2 @@
+4 : token_ratio--0.4286  byte_ratio--0.2567
+80 : token_ratio--0.1304  byte_ratio--0.1377

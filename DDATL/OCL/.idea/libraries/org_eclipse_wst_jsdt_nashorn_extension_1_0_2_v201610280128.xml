@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.wst.jsdt.nashorn.extension_1.0.2.v201610280128">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org.eclipse.wst.jsdt.nashorn.extension_1.0.2.v201610280128.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.equinox.common_3.8.0.v20160509-1230">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org.eclipse.equinox.common_3.8.0.v20160509-1230.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

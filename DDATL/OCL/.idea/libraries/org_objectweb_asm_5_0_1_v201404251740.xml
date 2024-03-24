@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.objectweb.asm_5.0.1.v201404251740">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org.objectweb.asm_5.0.1.v201404251740.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

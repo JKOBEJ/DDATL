@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.ocl.common_1.8.500.v20201208-2229">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/org.eclipse.ocl.common_1.8.500.v20201208-2229.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

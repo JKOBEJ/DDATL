@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jointPackage_Ecore2Maude="http://jointPackage_ecore2Maude/1.0">
+  <jointPackage_Ecore2Maude:SrcEPackage name="lxzcwumljl" nsURI="jhkmzmnumz" nsPrefix="gnvhubfltc">
+    <eClassifiers xsi:type="jointPackage_Ecore2Maude:SrcEClass" name="yaavusffov" eSuperTypes="/0/@eClassifiers.1">
+      <instanceClassName xsi:nil="true"/>
+      <instanceTypeName xsi:nil="true"/>
+      <eOperations name="fibkiiwpel" unique="false" upperBound="17">
+        <eType xsi:nil="true"/>
+      </eOperations>
+      <eOperations name="evqomefhvv" upperBound="49" eExceptions="/0/@eClassifiers.0 /0/@eClassifiers.3">
+        <eType xsi:nil="true"/>
+      </eOperations>
+    </eClassifiers>
+    <eClassifiers xsi:type="jointPackage_Ecore2Maude:SrcEClass" name="diyndwapdi" instanceClassName="voglxeinec" eSuperTypes="/0/@eClassifiers.1 /0/@eClassifiers.2 /0/@eClassifiers.0">
+      <instanceTypeName xsi:nil="true"/>
+      <eOperations name="ipwtwogvuk" eExceptions="/0/@eClassifiers.0 /0/@eClassifiers.3 /0/@eClassifiers.4 /0/@eClassifiers.1">
+        <eType xsi:nil="true"/>
+      </eOperations>
+    </eClassifiers>
+    <eClassifiers xsi:type="jointPackage_Ecore2Maude:SrcEClass" name="xmyywfgpib" eSuperTypes="/0/@eClassifiers.2 /0/@eClassifiers.0 /0/@eClassifiers.1">
+      <instanceClassName xsi:nil="true"/>
+      <instanceTypeName xsi:nil="true"/>
+      <eOperations name="fgukotumxj" lowerBound="8" eType="/0/@eClassifiers.2"/>
+      <eOperations name="uodnpsemcf">
+        <eType xsi:nil="true"/>
+      </eOperations>
+    </eClassifiers>
+    <eClassifiers xsi:type="jointPackage_Ecore2Maude:SrcEDataType" name="ytcpxwipol" instanceClassName="xoesglidep" instanceTypeName="mpxqlxhamr"/>
+    <eClassifiers xsi:type="jointPackage_Ecore2Maude:SrcEEnum" name="eqgojoxrng" instanceTypeName="qqkzirdurn">
+      <instanceClassName xsi:nil="true"/>
+    </eClassifiers>
+    <eClassifiers xsi:type="jointPackage_Ecore2Maude:SrcEEnum" name="giatsplkat" instanceTypeName="ywfrxsxvam">
+      <instanceClassName xsi:nil="true"/>
+    </eClassifiers>
+  </jointPackage_Ecore2Maude:SrcEPackage>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;lxzcwumljl&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;lxzcwumljl&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.5" op="@lxzcwumljl@"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.18" op="null"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;yaavusffov&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="isAbstract"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;diyndwapdi&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="isAbstract"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;xmyywfgpib&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="isAbstract"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.17" op="mutatedName"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;rtnmqcrgph&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.3" op="@NoType"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="0"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="1"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.1" op=" "/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;kmmookdpgb&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.3" op="@DataType"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="2"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="62"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.1" op="xbjzkqfaje"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;wsxjqtgpep&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.3" op="@NoType"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="0"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="1"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;ekfugjkppb&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.3" op="@NoType"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="73"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="4"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;uxwyjuuoot&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.3" op="@NoType"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="0"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.9" op="1"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="true"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.12" op="false"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.15" op="eqgojoxrng@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;eqgojoxrng&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.16" op="OclUndefined@eqgojoxrng@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.14" op="mt-ord"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.15" op="giatsplkat@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.13" op="&quot;giatsplkat&quot;"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.16" op="OclUndefined@giatsplkat@lxzcwumljl"/>
+  <jointPackage_Ecore2Maude:TrgConstant type="/157/@els.0/@els.14" op="mt-ord"/>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.5" op="@lxzcwumljl@"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.0" op="packages">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.5" op="@lxzcwumljl@"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.5" op="metamodel">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.18" op="superPackage">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="subPackages">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="classes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.0" op="lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="__">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isAbstract">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.0" op="package">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="superTypes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="references">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="attributes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isAbstract">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.0" op="package">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="superTypes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="__">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="references">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="attributes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isAbstract">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.0" op="package">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="superTypes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="__">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="yaavusffov@lxzcwumljl"/>
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="references">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="attributes">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.4" op="xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.3" op="type">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="lowerBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="upperBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.4" op="containingClass">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isId">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isOrdered">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isUnique">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.1" op="specificDefaultValue">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="rtnmqcrgph@yaavusffov@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.3" op="type">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="lowerBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="upperBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.4" op="containingClass">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isId">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isOrdered">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isUnique">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.1" op="specificDefaultValue">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="kmmookdpgb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.3" op="type">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="lowerBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="upperBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.4" op="containingClass">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isId">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isOrdered">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isUnique">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="wsxjqtgpep@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.3" op="type">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="lowerBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="upperBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.4" op="containingClass">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isId">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isOrdered">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isUnique">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="ekfugjkppb@diyndwapdi@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.3" op="type">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="lowerBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.9" op="upperBound">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.4" op="containingClass">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isId">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.7" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isOrdered">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.12" op="isUnique">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.6" op="uxwyjuuoot@xmyywfgpib@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.15" op="metaAux">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgVariable" type="/156/@els.84" name="X"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="eqgojoxrng@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.0" op="package">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="eqgojoxrng@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.16" op="defaultValue">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="eqgojoxrng@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="literals">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="eqgojoxrng@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.15" op="metaAux">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgVariable" type="/156/@els.92" name="X"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.13" op="name">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="giatsplkat@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.0" op="package">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="giatsplkat@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.16" op="defaultValue">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="giatsplkat@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgRecTerm type="/157/@els.0/@els.17" op="literals">
+    <args xsi:type="jointPackage_Ecore2Maude:TrgConstant" type="/157/@els.0/@els.15" op="giatsplkat@lxzcwumljl"/>
+  </jointPackage_Ecore2Maude:TrgRecTerm>
+  <jointPackage_Ecore2Maude:TrgModuleIdModExp module="/157/@els.0"/>
+  <jointPackage_Ecore2Maude:TrgSModule name="@LXZCWUMLJL@">
+    <els xsi:type="jointPackage_Ecore2Maude:TrgModImportation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="@lxzcwumljl@" coarity="/157/@els.0/@els.5"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="lxzcwumljl" coarity="/157/@els.0/@els.0"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="yaavusffov@lxzcwumljl" subsortRels="/156/@els.20 /156/@els.29" supersortRels="/156/@els.11"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSubsortRel" subsorts="/156/@els.10" supersorts="/156/@els.19"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="yaavusffov@lxzcwumljl" coarity="/156/@els.10"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="diyndwapdi@lxzcwumljl" subsortRels="/156/@els.11 /156/@els.20 /156/@els.29" supersortRels="/156/@els.20"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSubsortRel" subsorts="/156/@els.19" supersorts="/156/@els.19 /156/@els.28 /156/@els.10"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="diyndwapdi@lxzcwumljl" coarity="/156/@els.19"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="xmyywfgpib@lxzcwumljl" subsortRels="/156/@els.20 /156/@els.29" supersortRels="/156/@els.29"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSubsortRel" subsorts="/156/@els.28" supersorts="/156/@els.28 /156/@els.10 /156/@els.19"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="xmyywfgpib@lxzcwumljl" coarity="/156/@els.28"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="rtnmqcrgph@yaavusffov@lxzcwumljl" coarity="/157/@els.0/@els.7"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="kmmookdpgb@diyndwapdi@lxzcwumljl" coarity="/157/@els.0/@els.7"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="wsxjqtgpep@diyndwapdi@lxzcwumljl" coarity="/157/@els.0/@els.7"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="ekfugjkppb@diyndwapdi@lxzcwumljl" coarity="/157/@els.0/@els.7"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="uxwyjuuoot@xmyywfgpib@lxzcwumljl" coarity="/157/@els.0/@els.7"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="eqgojoxrng@lxzcwumljl" supersortRels="/156/@els.85"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSubsortRel" subsorts="/156/@els.84" supersorts="/157/@els.0/@els.16"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="eqgojoxrng@lxzcwumljl" coarity="/157/@els.0/@els.15"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="giatsplkat@lxzcwumljl" supersortRels="/156/@els.93"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSubsortRel" subsorts="/156/@els.92" supersorts="/157/@els.0/@els.16"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgOperation" name="giatsplkat@lxzcwumljl" coarity="/157/@els.0/@els.15"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgEquation"/>
+  </jointPackage_Ecore2Maude:TrgSModule>
+  <jointPackage_Ecore2Maude:TrgMaudeSpec>
+    <els xsi:type="jointPackage_Ecore2Maude:TrgSModule" name="@ECORE@">
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Package"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@BasicType"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Classifier"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@DataType"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Class"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Metamodel"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@ERROR@"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Attribute"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Reference"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="Int"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="Nat"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="Nat"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="Bool"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="String"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="List{OCL-Exp}"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@Enumeration"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="@EnumerationInstance" subsortRels="/156/@els.85 /156/@els.93"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="MyList"/>
+      <els xsi:type="jointPackage_Ecore2Maude:TrgSort" name="OclVoid"/>
+    </els>
+  </jointPackage_Ecore2Maude:TrgMaudeSpec>
+</xmi:XMI>

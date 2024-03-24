@@ -1,0 +1,47 @@
+总体上来说对于一个被测模型（例如models_BibTexML2DocBook），如果对于AVG_EXAM_SCORE 而言其中我们的得分高的公式数目更多，则认为对于这个mutant和ocl来讲，我们压缩后的错误定位效果更好。
+例如 ：对于mutant1_ocl15 , 其中18个计算公式中有7个我们AVG_EXAM_SCORE更好（EXAM_SCORE值更低，即所需要搜索的规则数更少），而有2个更差，剩下9个相同，则认为我们的错误定位结果更好,better_count + 1
+
+具体到每个mutant和ocl的得分优劣个数统计在其他文件夹中。
+
+如果可以的话我把提高的得分提升比也计算一下
+
+-----models_BibTexML2DocBook---------
+better_count : 175
+worse_count : 74
+equal_count	：13
+
+
+-----models_CPL2SPL------
+better_count : 82
+worse_count : 40
+equal_count	：15
+
+
+-----models_UML2ER------
+better_count : 65
+worse_count : 11
+equal_count	：12
+
+
+Mutant10OCL36
+Mutant13OCL17
+Mutant14OCL18
+Mutant29OCL27
+Mutant29OCL30
+Mutant31OCL39
+Mutant35OCL41
+Mutant37OCL15
+Mutant37OCL22
+Mutant37OCL24
+Mutant37OCL26
+Mutant37OCL27
+Mutant37OCL29
+Mutant37OCL30
+Mutant37OCL33
+Mutant37OCL35
+Mutant37OCL36
+Mutant45OCL20
+Mutant46OCL17
+Mutant47OCL39
+
+

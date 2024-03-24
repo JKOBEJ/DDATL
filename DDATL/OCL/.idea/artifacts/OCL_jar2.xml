@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact name="OCL:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/OCL_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="OCL.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="OCL" />
+      </element>
+      <element id="library" level="project" name="org.eclipse.equinox.common_3.15.100.v20211021-1418" />
+      <element id="library" level="project" name="lpg.runtime.java_2.0.17.v201004271640" />
+      <element id="library" level="project" name="org.eclipse.ocl.common_1.8.500.v20201208-2229" />
+      <element id="library" level="project" name="org.eclipse.equinox.common_3.8.0.v20160509-1230" />
+      <element id="library" level="project" name="org.eclipse.core.runtime_3.12.0.v20160606-1342" />
+      <element id="library" level="project" name="org.eclipse.ocl.ecore_3.6.200.v20170522-1736" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.engine.emfvm_3.5.0.v201405260755" />
+      <element id="library" level="project" name="org.eclipse.emf.common_2.10.0.v20140514-1158 (2)" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.common.source_3.5.0.v201405260755" />
+      <element id="library" level="project" name="org.eclipse.emf.ecore_2.10.0.v20140514-1158" />
+      <element id="library" level="project" name="org.eclipse.ocl.ecore_3.17.0.v20220309-0840" />
+      <element id="library" level="project" name="org.eclipse.emf.ecore.xmi_2.10.0.v20140514-1158" />
+      <element id="library" level="project" name="org.eclipse.ocl_3.6.200.v20170522-1736" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.common_3.3.1.v201209061455" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.core.emf_3.3.1.v201209061455" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.core_3.3.1.v201209061455" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.emftvm.trace_4.5.0.v202110180912" />
+      <element id="library" level="project" name="org.eclipse.m2m.atl.emftvm_4.5.0.v202110180912" />
+      <element id="library" level="project" name="org.objectweb.asm_5.0.1.v201404251740" />
+    </root>
+  </artifact>
+</component>

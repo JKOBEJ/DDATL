@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ASCII"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:jointPackage_BibTeX2DocBook="http://jointPackage_bibtex2docbook/1.0">
+  <jointPackage_BibTeX2DocBook:SrcBibTeXFile/>
+  <jointPackage_BibTeX2DocBook:TrgDocBook>
+    <books>
+      <articles title="BibTeXML to DocBook">
+        <sections_1 title="References List"/>
+        <sections_1 title="Authors List"/>
+      </articles>
+    </books>
+  </jointPackage_BibTeX2DocBook:TrgDocBook>
+  <jointPackage_BibTeX2DocBook:TrgDocBook>
+    <books>
+      <articles title="BibTeXML to DocBook">
+        <sections_1 title="Titles List"/>
+        <sections_1 title="Journals List"/>
+      </articles>
+    </books>
+  </jointPackage_BibTeX2DocBook:TrgDocBook>
+</xmi:XMI>

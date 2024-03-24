@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="org.eclipse.ocl_3.6.200.v20170522-1736" level="project" />
+    <orderEntry type="library" exported="" name="org.eclipse.ocl.ecore_3.6.200.v20170522-1736" level="project" />
+    <orderEntry type="library" name="org.eclipse.emf.ecore_2.10.0.v20140514-1158" level="project" />
+    <orderEntry type="library" name="org.eclipse.emf.common_2.10.0.v20140514-1158 (2)" level="project" />
+    <orderEntry type="library" name="lpg.runtime.java_2.0.17.v201004271640" level="project" />
+    <orderEntry type="library" name="org.eclipse.emf.ecore.xmi_2.10.0.v20140514-1158" level="project" />
+    <orderEntry type="library" name="org.eclipse.ocl.common_1.8.500.v20201208-2229" level="project" />
+    <orderEntry type="library" name="org.eclipse.ocl.ecore_3.17.0.v20220309-0840" level="project" />
+    <orderEntry type="library" name="org.eclipse.core.runtime_3.12.0.v20160606-1342" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.engine.emfvm_3.5.0.v201405260755" level="project" />
+    <orderEntry type="library" name="org.eclipse.equinox.common_3.15.100.v20211021-1418" level="project" />
+    <orderEntry type="library" name="org.eclipse.equinox.common_3.8.0.v20160509-1230" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.common.source_3.5.0.v201405260755" level="project" />
+    <orderEntry type="library" name="commons-io-2.2" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.common_3.3.1.v201209061455" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.common.source_3.3.1.v201209061455" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.core.emf_3.3.1.v201209061455" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.core_3.3.1.v201209061455" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.emftvm.trace_4.5.0.v202110180912" level="project" />
+    <orderEntry type="library" name="org.eclipse.m2m.atl.emftvm_4.5.0.v202110180912" level="project" />
+    <orderEntry type="library" name="org.objectweb.asm_5.0.1.v201404251740" level="project" />
+    <orderEntry type="library" name="org.eclipse.core.jobs_3.8.0.v20160509-0411" level="project" />
+    <orderEntry type="library" name="org.eclipse.wst.jsdt.nashorn.extension_1.0.2.v201610280128" level="project" />
+    <orderEntry type="library" name="libs" level="project" />
+  </component>
+</module>

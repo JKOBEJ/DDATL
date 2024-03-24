@@ -1,0 +1,5 @@
+60 : token_ratio--0.0588  byte_ratio--0.0694
+72 : token_ratio--0.0571  byte_ratio--0.0677
+74 : token_ratio--0.0690  byte_ratio--0.0688
+9 : token_ratio--0.0444  byte_ratio--0.0509
+97 : token_ratio--0.0541  byte_ratio--0.0559

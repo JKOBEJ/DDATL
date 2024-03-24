@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ER:ERModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ER="http://er" name="zuuwyqqn f">
+  <entities name="Computer"/>
+  <entities name="House">
+    <features xsi:type="ER:Attribute" name="hbneoc_q e" type="Boolean"/>
+    <features xsi:type="ER:WeakReference" name="xnessvob_z"/>
+    <features xsi:type="ER:Attribute" name="tw_mtvxbxx" type="Boolean"/>
+  </entities>
+</ER:ERModel>
